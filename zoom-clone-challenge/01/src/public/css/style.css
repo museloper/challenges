@@ -1,0 +1,16 @@
+form {
+  margin: 0 auto;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  height: 24px;
+  padding: 16px 32px;
+  margin: 8px 4px;
+}
